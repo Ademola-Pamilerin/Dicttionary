@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+}
+ul{
+    display: inline-flex;
+    padding: 10px;
+}
+ li{
+    list-style-type: none;
+}
+a{
+    padding: 40px;
+    text-decoration: none;
+}
